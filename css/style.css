@@ -1,0 +1,19 @@
+body{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #24242A;
+    background-image: url("/images/background.jpg");
+    background-size: cover;
+    font-size: larger;
+}
+.btn{
+    background-color: white;
+    color: #24242A;
+    font-family: inherit;
+    font-size: larger;
+    border: none;
+    padding: 6px 12px;
+}
+.underline{
+    border-bottom: 3px solid #24242A;
+}
